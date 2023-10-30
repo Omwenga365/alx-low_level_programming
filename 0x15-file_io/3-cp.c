@@ -88,3 +88,4 @@ void error_100(int f0, char *buffer)
 		exit(100);
 	}
 }
+
